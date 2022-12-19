@@ -3,7 +3,7 @@ package hw_11_12_2022;
 public class Ex1 {
     public static void main(String[] args) {
         int[] arr = {1, 4, 6, 7, 8, 9, 12, 15};
-        int key = 15;
+        int key = 8;
         int ind = 0;
         System.out.println(binFind(arr, key, ind));
     }
