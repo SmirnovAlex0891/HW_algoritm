@@ -67,8 +67,5 @@ public class hw2 {
         tab2[i][j] = x;
         return x;
 
-
-
-
     }
 }
