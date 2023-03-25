@@ -33,7 +33,7 @@ public class hw1 {
         firstPole.add(22);
         firstPole.add(11);
         System.out.println(firstPole);
-        moveRingRec(firstPole, secondPole, thirdPole, 8);
+        moveRingIter(firstPole, secondPole, thirdPole, 8);
         System.out.println(thirdPole);
     }
 
