@@ -10,3 +10,4 @@
 - [Home Work 19.04.2023](https://github.com/SmirnovAlex0891/HW_algoritm/tree/master/HW/src/hw_19_04_2023)
 - [Home Work 26.04.2023](https://github.com/SmirnovAlex0891/HW_algoritm/tree/master/HW/src/hw_26_04_2023)
 - [Home Work 03.05.2023](https://github.com/SmirnovAlex0891/HW_algoritm/tree/master/HW/src/hw_03_05_2023)
+- [Home Work 10.05.2023](https://github.com/SmirnovAlex0891/HW_algoritm/tree/master/HW/src/hw_10_05_2023)
